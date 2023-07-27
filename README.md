@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 
 🧰 Toolbox
 
-<img src="file:///C:/Users/User/Downloads/python-5.svg" alt="Python Logo" width="50" height="50"/> 
-<img src="file:///C:/Users/User/Downloads/c.svg" alt="c++ Logo" width="50" height="50"/> 
-<img src="file:///C:/Users/User/Downloads/git-icon.svg" alt="Git Logo" width="50" height="50"/> 
-<img src="file:///C:/Users/User/Downloads/github-icon-1.svg" alt="Github Logo" width="50" height="50"/> 
-<img src="file:///C:/Users/User/Downloads/github-icon-1.svg" alt="Github Logo" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="c++ Logo" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++ Logo" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/> 
+
 
 ---
