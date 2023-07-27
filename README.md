@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 
 ---
 
-🧰 Toolbox
-
+<h2 align = center> 🧰 Toolbox </h2>
+<div align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="c++ Logo" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++ Logo" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/> 
-
+</div>
 
 ---
