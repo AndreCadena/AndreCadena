@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 👀 I am interested in power engineering as well as robotics and automation of processes
 
 📚 I am currently studying under the brazilian university UFCG '(Universidade Federal de Campina Grande)' and participating in an exchange program with the partner french university ESISAR
+
 ---
 
 <h2 align = center> 🧰 Toolbox </h2>
